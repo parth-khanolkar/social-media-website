@@ -25,13 +25,13 @@ To run the MERN Social Media Website locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/username/mern-social-media-website.git
+git clone https://github.com/parth-khanolkar/social-media-website.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-cd mern-social-media-website
+cd social-media-website
 ```
 
 3. Install the required dependencies:
