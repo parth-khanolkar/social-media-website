@@ -20,7 +20,7 @@ The Memories Website is a cutting-edge platform developed using the MERN (MongoD
 
 ## Installation
 
-To run the MERN Social Media Website locally, follow these steps:
+To run the Memories Website locally, follow these steps:
 
 1. Clone the repository:
 
