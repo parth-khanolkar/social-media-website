@@ -46,8 +46,8 @@ npm install
 # Create a .env file in the root directory
 # Add the necessary environment variables (e.g., database connection details, JWT secret, etc.)
 
-DB_URI=<your_mongodb_uri>
-JWT_SECRET=<your_jwt_secret>
+PORT = <your_port>
+CONNECTION_URL = <your_mongodb_url>
 ```
 
 5. Start the development server:
